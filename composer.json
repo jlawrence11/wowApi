@@ -1,0 +1,23 @@
+{
+    "name": "jlawrence/wowApi",
+    "description": "World of Warcraft API wrapper",
+    "license": "LGPL",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Jon Lawrence",
+            "email": "jon@jon-lawrence.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.0",
+        "jlawrence/lw": "dev-master",
+        "php-curl-class/php-curl-class": "~3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "jlawrence\\wowApi\\": "src/"
+        }
+    }
+}

@@ -14,3 +14,5 @@ You can look in `Core.class` and modify the default region, server, etc there if
 Anyways, that is all for now.  I add `phpDoc blocks` before I fully update this readme, so auto-generated documentation might help more!
 
 Take care!
+
+Another Commit, pushing to packagist.

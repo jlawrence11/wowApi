@@ -12,3 +12,5 @@ I am leaving my basic testing source `index.php` in here as it might give a smal
 You can look in `Core.class` and modify the default region, server, etc there if you'd like. Yes, I am Archnemisis from <Retaliation> on Thrall... defaults are useful for figuring out a toon behind a programmer I suppose.
 
 Anyways, that is all for now.  I add `phpDoc blocks` before I fully update this readme, so auto-generated documentation might help more!
+
+Take care!

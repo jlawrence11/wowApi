@@ -1,5 +1,5 @@
 {
-    "name": "jlawrence/wowApi",
+    "name": "jlawrence/wow-api",
     "description": "World of Warcraft API wrapper",
     "license": "LGPL",
     "minimum-stability": "stable",
